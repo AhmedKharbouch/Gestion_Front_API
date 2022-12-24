@@ -1,5 +1,10 @@
 # DigitalBankingWeb
 
+## Frontend Example
+
+![frontend](https://user-images.githubusercontent.com/102327247/209448340-8fca34d4-c9a8-42d7-993e-ab5f072d7436.PNG)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
 
 ## Development server
